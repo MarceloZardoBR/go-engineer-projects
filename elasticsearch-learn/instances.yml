@@ -1,0 +1,12 @@
+instances:
+  - name: es-node
+    dns:
+      - es-node
+      - localhost
+    ip:
+      - 127.0.0.1
+
+  - name: 'kb-es-01'
+    dns:
+      - kb-es-01
+      - localhost
